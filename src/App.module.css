@@ -1,0 +1,15 @@
+.mainBox {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+}
+
+.mapsBox,
+.searchBox {
+  width: 50vw;
+}
+
+.mapsBox {
+  height: 100vh;
+}
